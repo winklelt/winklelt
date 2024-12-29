@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently pursuing the Master of Financial Engineering at University of California, Los Angels. My previous work was focusing on Actuarial Advisory.
-- 🌱 I’m currently learning the how to **Stock Trading Simulation with Gymnasium**.
-- 👯 I’m looking for someone who can share some insights about Quant/DS/MLE field:
-      - send ideas to tliu57737@gmail.com 
+- 🔭 I’m currently pursuing a **Master of Financial Engineering** at the University of California, Los Angeles. Previously, I focused on Actuarial Advisory.
+- 🌱 I’m learning how to **simulate stock trading using Gymnasium**.
+- 👯 I’m seeking collaborators or mentors in the Quantitative Analysis, Data Science, or Machine Learning Engineering fields.
+  - Feel free to reach out at [tliu57737@gmail.com](mailto:tliu57737@gmail.com).
+
 
 <!--
 **winklelt/winklelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
